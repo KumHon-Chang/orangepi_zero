@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: orangepi_zerov1 OpenWrt
+name: orangepi_zerov2 OpenWrt
 
 on:
   repository_dispatch:
